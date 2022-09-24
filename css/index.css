@@ -11,6 +11,7 @@
     margin: auto;
     margin-top: 7px;
     border-radius: 10px;
+    text-align: center;
 }
 
 .container h1, p{
@@ -64,4 +65,9 @@ input, textarea{
 .confirmation{
     color: green;
     font-style: italic;
+}
+
+.error{
+    color: red;
+    font-size: 16px;
 }
